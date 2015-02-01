@@ -1,0 +1,1 @@
+angular.module('post-app', ['post-app.postService', 'post-app.postController']);

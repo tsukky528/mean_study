@@ -1,0 +1,6 @@
+{
+  "name": "mean-basic",
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.3"
+  }
+}
